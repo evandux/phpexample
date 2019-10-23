@@ -8,6 +8,8 @@
     <title>php xample</title>
 </head>
 <body>
+    <!-- basically all html files need to be changed to have a .php 
+    extension, and the use the include method on the header / footer php files -->
     <?php include ("header.php"); ?>
     <p>this site is a php site</p>
 </body>
